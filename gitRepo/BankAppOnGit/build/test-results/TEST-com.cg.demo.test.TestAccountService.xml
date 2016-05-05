@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cg.demo.test.TestAccountService" tests="12" skipped="0" failures="0" errors="0" timestamp="2016-05-05T06:34:33" hostname="DIN52003364B" time="0.15">
+  <properties/>
+  <testcase name="balance_should_be_returned_for_valid_accounts" classname="com.cg.demo.test.TestAccountService" time="0.136"/>
+  <testcase name="amount_passed_to_withdraw_should_not_be_negative" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="amount_passed_to_deposit_should_not_be_negative" classname="com.cg.demo.test.TestAccountService" time="0.0"/>
+  <testcase name="if_valid_input_is_passed_then_withdraw_should_complete_the_transaction_successfully" classname="com.cg.demo.test.TestAccountService" time="0.0"/>
+  <testcase name="if_valid_input_is_passed_then_deposit_should_complete_the_transaction_successfully" classname="com.cg.demo.test.TestAccountService" time="0.0"/>
+  <testcase name="minimum_amount_of_fivehundred_must_be_give_to_open_the_account" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="customer_should_not_be_null_while_creating_the_account" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="amount_passed_to_withdraw_should_not_be_greater_than_balance" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="if_valid_input_is_given_system_should_create_account_successfully" classname="com.cg.demo.test.TestAccountService" time="0.002"/>
+  <testcase name="passing_invalid_accountNumber_to_showBalance_results_into_exception" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="withdraw_should_throw_excpetion_if_invalid_accountNumber_is_passed" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <testcase name="deposit_should_throw_excpetion_if_invalid_accountNumber_is_passed" classname="com.cg.demo.test.TestAccountService" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
